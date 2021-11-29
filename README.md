@@ -8,7 +8,7 @@ Under the general BEP revision protocol, the revising agent tests a subset of it
 
 References about nBEPA1:
 
-- Izquierdo, L. R., Izquierdo, S. S. and Rodríguez, J. (In Progress). Decentralized, Fast and Scalable Almost-Global Convergence in Single-Optimum Coordination Problems. http://www.luis.izqui.org
+- Izquierdo, L. R., Izquierdo, S. S. and Rodríguez, J. (In Progress). Fast and Scalable Global Convergence in Single-Optimum Decentralized Coordination Problems. Working paper. http://luis.izqui.org/papers/fast-and-scalable.pdf
 
 References about BEP:
 
