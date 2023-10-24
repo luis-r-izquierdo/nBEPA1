@@ -17,3 +17,5 @@ References about BEP:
 - Sandholm, W. H., Izquierdo, S. S., and Izquierdo, L. R. (2020). Stability for best experienced payoff dynamics. *Journal of Economic Theory*, 185:104957. [https://doi.org/10.1016/j.jet.2019.104957](https://doi.org/10.1016/j.jet.2019.104957)
 
 - Izquierdo, S. S., and Izquierdo, L. R. (2021). "Test two, choose the better" leads to high cooperation in the Centipede game. *Journal of Dynamics and Games*. [http://dx.doi.org/10.3934/jdg.2021018](http://dx.doi.org/10.3934/jdg.2021018)
+
+- Izquierdo, S. S., and Izquierdo, L. R. (2022). Strategy sets closed under payoff sampling. *Games and Economic Behavior*, vol. 138, pp. 126-142. [https://doi.org/10.1016/j.geb.2022.12.006](https://doi.org/10.1016/j.geb.2022.12.006)
