@@ -8,12 +8,12 @@ Under the general BEP revision protocol, the revising agent tests a subset of it
 
 References about nBEPA1:
 
-- Izquierdo, L. R., Izquierdo, S. S. and Rodríguez, J. (In Progress). Fast and Scalable Global Convergence in Single-Optimum Decentralized Coordination Problems. Working paper. http://luis.izqui.org/papers/fast-and-scalable.pdf
+- Izquierdo, L. R., Izquierdo, S. S. and Rodríguez, J. (2022). Fast and Scalable Global Convergence in Single-Optimum Decentralized Coordination Problems. *IEEE Transactions on Control of Network Systems*, vol. 9, issue 4, pp. 1937-1948. [DOI: 10.1109/TCNS.2022.3181545](http://dx.doi.org/10.1109/TCNS.2022.3181545). Accepted version freely available: [http://luis.izqui.org/papers/fast-and-scalable.pdf](http://luis.izqui.org/papers/fast-and-scalable.pdf)
 
 References about BEP:
 
-- Sandholm, W. H., Izquierdo, S. S., and Izquierdo, L. R. (2019). Best experienced payoff dynamics and cooperation in the Centipede game. *Theoretical Economics*, 14: 1347-1385. https://doi.org/10.3982/TE3565
+- Sandholm, W. H., Izquierdo, S. S., and Izquierdo, L. R. (2019). Best experienced payoff dynamics and cooperation in the Centipede game. *Theoretical Economics*, 14: 1347-1385. [https://doi.org/10.3982/TE3565](https://doi.org/10.3982/TE3565)
 
-- Sandholm, W. H., Izquierdo, S. S., and Izquierdo, L. R. (2020). Stability for best experienced payoff dynamics. *Journal of Economic Theory*, 185:104957. https://doi.org/10.1016/j.jet.2019.104957
+- Sandholm, W. H., Izquierdo, S. S., and Izquierdo, L. R. (2020). Stability for best experienced payoff dynamics. *Journal of Economic Theory*, 185:104957. [https://doi.org/10.1016/j.jet.2019.104957](https://doi.org/10.1016/j.jet.2019.104957)
 
-- Izquierdo, S. S., and Izquierdo, L. R. (2021). "Test two, choose the better" leads to high cooperation in the Centipede game. *Journal of Dynamics and Games*. http://dx.doi.org/10.3934/jdg.2021018
+- Izquierdo, S. S., and Izquierdo, L. R. (2021). "Test two, choose the better" leads to high cooperation in the Centipede game. *Journal of Dynamics and Games*. [http://dx.doi.org/10.3934/jdg.2021018](http://dx.doi.org/10.3934/jdg.2021018)
